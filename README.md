@@ -4,13 +4,13 @@ A zendesk chat running in react native inside a web view.
 
 ## 📋 Table of contents
 
-- [eZVoice](#ezvoice)
-  - [📋 Table of contents](#-table-of-contents)
-  - [📦 Installation](#-installation)
-  - [🚀 Usage](#-usage)
+- [POC Zendesk Chat - Web View](#poc-zendesk-chat---web-view)
+  - [📋 Table of contents](#📋-table-of-contents)
+  - [📦 Installation](#📦-installation)
+  - [🚀 Usage](#🚀-usage)
     - [Running the server](#running-the-server)
     - [Running the Client APP](#running-the-client-app)
-  - [📜 License](#-license)
+  - [📜 License](#📜-license)
 
 ## 📦 Installation
 
