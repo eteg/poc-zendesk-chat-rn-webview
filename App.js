@@ -9,7 +9,7 @@ const ZendeskChat = () => {
                 <WebView
                     style={{ flex: 1 }}
                     hideKeyboardAccessoryView
-                    source={{ uri: "https://fiever1676404393.zendesk.com/hc/pt-br" }}
+                    source={{ uri: "https://fiever.zendesk.com/hc/pt-br" }}
                     showsVerticalScrollIndicator={false}
                     applicationNameForUserAgent="Fiever"
                     originWhitelist={['*']}
